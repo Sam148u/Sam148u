@@ -57,6 +57,6 @@ Soy estudiante de Ingeniería de Sistemas con experiencia construyendo proyectos
 ### Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FSam148u&theme=gotham&locale=es)](https://git.io/streak-stats)
-![Stats](./profile/stats.svg)
+![Stats](./https://github.com/Sam148u/stats.svg)
 
 ⭐ Gracias por visitar mi perfil
