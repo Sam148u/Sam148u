@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Stiven Poveda
 
-<!--
-**Sam148u/Sam148u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack enfocado en el desarrollo de aplicaciones web modernas, integrando frontend y backend con buenas prácticas y soluciones escalables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas con experiencia construyendo proyectos web completos, desde la lógica backend hasta interfaces de usuario funcionales. Me interesa crear soluciones eficientes, aprender nuevas tecnologías y seguir creciendo en el mundo del desarrollo de software.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 💡 Lenguajes
+- JavaScript
+- Python
+- SQL
+
+### ⚙️ Backend
+- Node.js (Express)
+- Desarrollo de APIs REST
+- Manejo de bases de datos
+
+### 🎨 Frontend
+- Angular
+- HTML5
+- CSS3
+
+### 🗄️ Bases de datos
+- MySQL
+- SQLite
+
+### 🔧 Herramientas
+- Git & GitHub
+- Docker (básico)
+- Postman
+- Visual Studio Code
+
+---
+
+## 📌 En lo que me enfoco
+
+- Desarrollo Full Stack
+- Integración de APIs
+- Estructuración de proyectos escalables
+- Mejora continua de código y buenas prácticas
+
+---
+
+## 📫 Conecta conmigo
+
+- LinkedIn: (pon tu link aquí)
+- Email: (tu correo aquí)
+
+---
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2FSam148u&theme=gotham&locale=es)](https://git.io/streak-stats)
+![Stats](./profile/stats.svg)
+
+⭐ Gracias por visitar mi perfil
